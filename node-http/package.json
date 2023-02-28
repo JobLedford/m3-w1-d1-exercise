@@ -1,0 +1,11 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Node HTTP Module",
+  "main": "server.js",
+  "scripts": {
+    "test": "git repository, keywords"
+  },
+  "author": "Job Ledford",
+  "license": "ISC"
+}
